@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "payments-executor",
+    "name": "payments",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "mld12soj61"
+  }
+}
